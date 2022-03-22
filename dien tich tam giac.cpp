@@ -8,3 +8,5 @@ int main (){
 	printf ("dien tich tam gia la: %d",s);
 	return 0;
 }
+
+
